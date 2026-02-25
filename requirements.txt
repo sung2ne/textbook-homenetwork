@@ -1,0 +1,15 @@
+# 소설처럼 읽는 홈네트워크 - 실습 의존성
+# Raspberry Pi OS에서 실행 필요
+
+# PART 02: GPIO 제어
+gpiozero       # GPIO 핀 제어 (RPi OS 기본 포함)
+# RPi.GPIO는 gpiozero 의존성으로 자동 설치됨
+
+# PART 03: 센서
+adafruit-circuitpython-dht  # DHT11 온습도 센서
+
+# PART 04: MQTT
+paho-mqtt>=2.0.0  # MQTT 클라이언트
+
+# PART 06: 웹 대시보드 (선택)
+flask>=3.0.0    # 웹 서버 (바이브코딩 예제)
