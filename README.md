@@ -3,7 +3,7 @@
 **Raspberry Pi 5**로 배우는 IoT 홈네트워크 실습 코드 저장소입니다.
 Docker + MQTT + Node-RED + Gemini CLI 바이브코딩을 활용한 스마트홈 프로토타입을 만들어봅니다.
 
-📚 **교재**: [소설처럼 읽는 홈네트워크](https://wikidocs.net/)
+📚 **교재**: [소설처럼 읽는 홈네트워크](https://text.ibetter.kr/home-network)
 
 ---
 
